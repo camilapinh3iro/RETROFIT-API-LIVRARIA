@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "714323958158",
+    "project_id": "ppdm-80017",
+    "storage_bucket": "ppdm-80017.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714323958158:android:c467c6820fc9db78892cdf",
+        "android_client_info": {
+          "package_name": "br.senai.sp.jandira.retrofit_api_livraria"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCkm0yivaZ9rBT1_aCSboyt-hMkCx0XCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714323958158:android:7aca24c61a34de33892cdf",
+        "android_client_info": {
+          "package_name": "br.senai.sp.jandira.upload_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCkm0yivaZ9rBT1_aCSboyt-hMkCx0XCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
